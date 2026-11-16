@@ -1,0 +1,480 @@
+{
+ "month": "2026-09",
+ "sr": 4.02,
+ "eco": {
+  "Rimavská Sobota": {
+   "tier": "podpriemerná",
+   "pdu": 10.39,
+   "rank": 1,
+   "note": "PDU (nezamestnanosť) 10.39 % — 1. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Kežmarok": {
+   "tier": "podpriemerná",
+   "pdu": 9.94,
+   "rank": 2,
+   "note": "PDU (nezamestnanosť) 9.94 % — 2. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Vranov nad Topľou": {
+   "tier": "podpriemerná",
+   "pdu": 8.57,
+   "rank": 3,
+   "note": "PDU (nezamestnanosť) 8.57 % — 3. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Rožňava": {
+   "tier": "podpriemerná",
+   "pdu": 8.22,
+   "rank": 4,
+   "note": "PDU (nezamestnanosť) 8.22 % — 4. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Revúca": {
+   "tier": "podpriemerná",
+   "pdu": 8.04,
+   "rank": 5,
+   "note": "PDU (nezamestnanosť) 8.04 % — 5. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Poltár": {
+   "tier": "podpriemerná",
+   "pdu": 7.63,
+   "rank": 6,
+   "note": "PDU (nezamestnanosť) 7.63 % — 6. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Svidník": {
+   "tier": "podpriemerná",
+   "pdu": 7.51,
+   "rank": 7,
+   "note": "PDU (nezamestnanosť) 7.51 % — 7. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Sabinov": {
+   "tier": "podpriemerná",
+   "pdu": 7.18,
+   "rank": 8,
+   "note": "PDU (nezamestnanosť) 7.18 % — 8. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Medzilaborce": {
+   "tier": "podpriemerná",
+   "pdu": 6.73,
+   "rank": 9,
+   "note": "PDU (nezamestnanosť) 6.73 % — 9. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Bardejov": {
+   "tier": "podpriemerná",
+   "pdu": 6.47,
+   "rank": 10,
+   "note": "PDU (nezamestnanosť) 6.47 % — 10. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Stropkov": {
+   "tier": "podpriemerná",
+   "pdu": 6.38,
+   "rank": 11,
+   "note": "PDU (nezamestnanosť) 6.38 % — 11. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Lučenec": {
+   "tier": "podpriemerná",
+   "pdu": 6.24,
+   "rank": 12,
+   "note": "PDU (nezamestnanosť) 6.24 % — 12. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Trebišov": {
+   "tier": "podpriemerná",
+   "pdu": 6.17,
+   "rank": 13,
+   "note": "PDU (nezamestnanosť) 6.17 % — 13. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Sobrance": {
+   "tier": "podpriemerná",
+   "pdu": 5.97,
+   "rank": 14,
+   "note": "PDU (nezamestnanosť) 5.97 % — 14. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Žarnovica": {
+   "tier": "mierne podpriemerná",
+   "pdu": 5.45,
+   "rank": 15,
+   "note": "PDU (nezamestnanosť) 5.45 % — 15. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Levoča": {
+   "tier": "mierne podpriemerná",
+   "pdu": 5.26,
+   "rank": 16,
+   "note": "PDU (nezamestnanosť) 5.26 % — 16. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Humenné": {
+   "tier": "mierne podpriemerná",
+   "pdu": 5.2,
+   "rank": 17,
+   "note": "PDU (nezamestnanosť) 5.20 % — 17. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Michalovce": {
+   "tier": "mierne podpriemerná",
+   "pdu": 5.16,
+   "rank": 18,
+   "note": "PDU (nezamestnanosť) 5.16 % — 18. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Košice - okolie": {
+   "tier": "mierne podpriemerná",
+   "pdu": 5.09,
+   "rank": 19,
+   "note": "PDU (nezamestnanosť) 5.09 % — 19. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Snina": {
+   "tier": "mierne podpriemerná",
+   "pdu": 5.01,
+   "rank": 20,
+   "note": "PDU (nezamestnanosť) 5.01 % — 20. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Veľký Krtíš": {
+   "tier": "mierne podpriemerná",
+   "pdu": 4.88,
+   "rank": 21,
+   "note": "PDU (nezamestnanosť) 4.88 % — 21. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Spišská Nová Ves": {
+   "tier": "mierne podpriemerná",
+   "pdu": 4.86,
+   "rank": 22,
+   "note": "PDU (nezamestnanosť) 4.86 % — 22. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Banská Štiavnica": {
+   "tier": "mierne podpriemerná",
+   "pdu": 4.85,
+   "rank": 23,
+   "note": "PDU (nezamestnanosť) 4.85 % — 23. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Stará Ľubovňa": {
+   "tier": "mierne podpriemerná",
+   "pdu": 4.84,
+   "rank": 24,
+   "note": "PDU (nezamestnanosť) 4.84 % — 24. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Gelnica": {
+   "tier": "mierne podpriemerná",
+   "pdu": 4.69,
+   "rank": 25,
+   "note": "PDU (nezamestnanosť) 4.69 % — 25. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Detva": {
+   "tier": "priemerná",
+   "pdu": 4.39,
+   "rank": 26,
+   "note": "PDU (nezamestnanosť) 4.39 % — 26. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Senica": {
+   "tier": "priemerná",
+   "pdu": 4.37,
+   "rank": 27,
+   "note": "PDU (nezamestnanosť) 4.37 % — 27. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Brezno": {
+   "tier": "priemerná",
+   "pdu": 4.3,
+   "rank": 28,
+   "note": "PDU (nezamestnanosť) 4.30 % — 28. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Poprad": {
+   "tier": "priemerná",
+   "pdu": 4.3,
+   "rank": 29,
+   "note": "PDU (nezamestnanosť) 4.30 % — 29. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Topoľčany": {
+   "tier": "priemerná",
+   "pdu": 4.23,
+   "rank": 30,
+   "note": "PDU (nezamestnanosť) 4.23 % — 30. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Turčianske Teplice": {
+   "tier": "priemerná",
+   "pdu": 4.23,
+   "rank": 31,
+   "note": "PDU (nezamestnanosť) 4.23 % — 31. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Krupina": {
+   "tier": "priemerná",
+   "pdu": 4.22,
+   "rank": 32,
+   "note": "PDU (nezamestnanosť) 4.22 % — 32. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Prievidza": {
+   "tier": "priemerná",
+   "pdu": 4.15,
+   "rank": 33,
+   "note": "PDU (nezamestnanosť) 4.15 % — 33. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Kysucké Nové Mesto": {
+   "tier": "priemerná",
+   "pdu": 4.12,
+   "rank": 34,
+   "note": "PDU (nezamestnanosť) 4.12 % — 34. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Prešov": {
+   "tier": "priemerná",
+   "pdu": 4.12,
+   "rank": 35,
+   "note": "PDU (nezamestnanosť) 4.12 % — 35. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Liptovský Mikuláš": {
+   "tier": "priemerná",
+   "pdu": 4.11,
+   "rank": 36,
+   "note": "PDU (nezamestnanosť) 4.11 % — 36. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Žiar nad Hronom": {
+   "tier": "priemerná",
+   "pdu": 3.85,
+   "rank": 37,
+   "note": "PDU (nezamestnanosť) 3.85 % — 37. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Čadca": {
+   "tier": "priemerná",
+   "pdu": 3.84,
+   "rank": 38,
+   "note": "PDU (nezamestnanosť) 3.84 % — 38. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Dolný Kubín": {
+   "tier": "priemerná",
+   "pdu": 3.66,
+   "rank": 39,
+   "note": "PDU (nezamestnanosť) 3.66 % — 39. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Šaľa": {
+   "tier": "priemerná",
+   "pdu": 3.59,
+   "rank": 40,
+   "note": "PDU (nezamestnanosť) 3.59 % — 40. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Partizánske": {
+   "tier": "priemerná",
+   "pdu": 3.55,
+   "rank": 41,
+   "note": "PDU (nezamestnanosť) 3.55 % — 41. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Komárno": {
+   "tier": "priemerná",
+   "pdu": 3.53,
+   "rank": 42,
+   "note": "PDU (nezamestnanosť) 3.53 % — 42. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Skalica": {
+   "tier": "priemerná",
+   "pdu": 3.43,
+   "rank": 43,
+   "note": "PDU (nezamestnanosť) 3.43 % — 43. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Ružomberok": {
+   "tier": "priemerná",
+   "pdu": 3.42,
+   "rank": 44,
+   "note": "PDU (nezamestnanosť) 3.42 % — 44. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Martin": {
+   "tier": "priemerná",
+   "pdu": 3.36,
+   "rank": 45,
+   "note": "PDU (nezamestnanosť) 3.36 % — 45. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Banská Bystrica": {
+   "tier": "priemerná",
+   "pdu": 3.34,
+   "rank": 46,
+   "note": "PDU (nezamestnanosť) 3.34 % — 46. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Tvrdošín": {
+   "tier": "priemerná",
+   "pdu": 3.33,
+   "rank": 47,
+   "note": "PDU (nezamestnanosť) 3.33 % — 47. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Nové Zámky": {
+   "tier": "priemerná",
+   "pdu": 3.32,
+   "rank": 48,
+   "note": "PDU (nezamestnanosť) 3.32 % — 48. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Zvolen": {
+   "tier": "nadpriemerná",
+   "pdu": 3.3,
+   "rank": 49,
+   "note": "PDU (nezamestnanosť) 3.30 % — 49. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Námestovo": {
+   "tier": "nadpriemerná",
+   "pdu": 3.19,
+   "rank": 50,
+   "note": "PDU (nezamestnanosť) 3.19 % — 50. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Bánovce nad Bebravou": {
+   "tier": "nadpriemerná",
+   "pdu": 3.18,
+   "rank": 51,
+   "note": "PDU (nezamestnanosť) 3.18 % — 51. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Bytča": {
+   "tier": "nadpriemerná",
+   "pdu": 3.11,
+   "rank": 52,
+   "note": "PDU (nezamestnanosť) 3.11 % — 52. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Levice": {
+   "tier": "nadpriemerná",
+   "pdu": 3.1,
+   "rank": 53,
+   "note": "PDU (nezamestnanosť) 3.10 % — 53. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Košice I": {
+   "tier": "nadpriemerná",
+   "pdu": 3.1,
+   "rank": 54,
+   "note": "PDU (nezamestnanosť) 3.10 % — 54. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Košice II": {
+   "tier": "nadpriemerná",
+   "pdu": 3.08,
+   "rank": 55,
+   "note": "PDU (nezamestnanosť) 3.08 % — 55. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Myjava": {
+   "tier": "nadpriemerná",
+   "pdu": 3.02,
+   "rank": 56,
+   "note": "PDU (nezamestnanosť) 3.02 % — 56. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Bratislava IV": {
+   "tier": "nadpriemerná",
+   "pdu": 2.99,
+   "rank": 57,
+   "note": "PDU (nezamestnanosť) 2.99 % — 57. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Košice IV": {
+   "tier": "nadpriemerná",
+   "pdu": 2.97,
+   "rank": 58,
+   "note": "PDU (nezamestnanosť) 2.97 % — 58. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Pezinok": {
+   "tier": "nadpriemerná",
+   "pdu": 2.96,
+   "rank": 59,
+   "note": "PDU (nezamestnanosť) 2.96 % — 59. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Zlaté Moravce": {
+   "tier": "nadpriemerná",
+   "pdu": 2.94,
+   "rank": 60,
+   "note": "PDU (nezamestnanosť) 2.94 % — 60. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Dunajská Streda": {
+   "tier": "nadpriemerná",
+   "pdu": 2.89,
+   "rank": 61,
+   "note": "PDU (nezamestnanosť) 2.89 % — 61. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Žilina": {
+   "tier": "nadpriemerná",
+   "pdu": 2.88,
+   "rank": 62,
+   "note": "PDU (nezamestnanosť) 2.88 % — 62. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Nové Mesto nad Váhom": {
+   "tier": "nadpriemerná",
+   "pdu": 2.87,
+   "rank": 63,
+   "note": "PDU (nezamestnanosť) 2.87 % — 63. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Senec": {
+   "tier": "nadpriemerná",
+   "pdu": 2.86,
+   "rank": 64,
+   "note": "PDU (nezamestnanosť) 2.86 % — 64. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Galanta": {
+   "tier": "nadpriemerná",
+   "pdu": 2.86,
+   "rank": 65,
+   "note": "PDU (nezamestnanosť) 2.86 % — 65. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Bratislava II": {
+   "tier": "nadpriemerná",
+   "pdu": 2.79,
+   "rank": 66,
+   "note": "PDU (nezamestnanosť) 2.79 % — 66. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Košice III": {
+   "tier": "nadpriemerná",
+   "pdu": 2.78,
+   "rank": 67,
+   "note": "PDU (nezamestnanosť) 2.78 % — 67. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Považská Bystrica": {
+   "tier": "nadpriemerná",
+   "pdu": 2.73,
+   "rank": 68,
+   "note": "PDU (nezamestnanosť) 2.73 % — 68. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Bratislava V": {
+   "tier": "vysoká",
+   "pdu": 2.68,
+   "rank": 69,
+   "note": "PDU (nezamestnanosť) 2.68 % — 69. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Bratislava III": {
+   "tier": "vysoká",
+   "pdu": 2.61,
+   "rank": 70,
+   "note": "PDU (nezamestnanosť) 2.61 % — 70. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Trnava": {
+   "tier": "vysoká",
+   "pdu": 2.61,
+   "rank": 71,
+   "note": "PDU (nezamestnanosť) 2.61 % — 71. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Hlohovec": {
+   "tier": "vysoká",
+   "pdu": 2.58,
+   "rank": 72,
+   "note": "PDU (nezamestnanosť) 2.58 % — 72. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Malacky": {
+   "tier": "vysoká",
+   "pdu": 2.54,
+   "rank": 73,
+   "note": "PDU (nezamestnanosť) 2.54 % — 73. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Ilava": {
+   "tier": "vysoká",
+   "pdu": 2.51,
+   "rank": 74,
+   "note": "PDU (nezamestnanosť) 2.51 % — 74. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Púchov": {
+   "tier": "vysoká",
+   "pdu": 2.5,
+   "rank": 75,
+   "note": "PDU (nezamestnanosť) 2.50 % — 75. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Nitra": {
+   "tier": "vysoká",
+   "pdu": 2.48,
+   "rank": 76,
+   "note": "PDU (nezamestnanosť) 2.48 % — 76. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Bratislava I": {
+   "tier": "vysoká",
+   "pdu": 2.38,
+   "rank": 77,
+   "note": "PDU (nezamestnanosť) 2.38 % — 77. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Trenčín": {
+   "tier": "vysoká",
+   "pdu": 2.35,
+   "rank": 78,
+   "note": "PDU (nezamestnanosť) 2.35 % — 78. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  },
+  "Piešťany": {
+   "tier": "vysoká",
+   "pdu": 2.24,
+   "rank": 79,
+   "note": "PDU (nezamestnanosť) 2.24 % — 79. z 79 okresov; priemer SR 4.02 % (ÚPSVR 09/2026)"
+  }
+ }
+}
